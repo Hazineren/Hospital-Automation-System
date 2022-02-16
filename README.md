@@ -1,7 +1,7 @@
 # Hospital-Automation-System
 What can be done in the application:
-- In the first phase of our application, "Patient Entrance" and "Doctor Entrance" sections welcome us.
-- If the system is accessed with the title of chief physician, general management authority is given to the chief physician with a different interface.
+**In the first phase of our application, "Patient Entrance" and "Doctor Entrance" sections welcome us.
+**If the system is accessed with the title of chief physician, general management authority is given to the chief physician with a different interface.
 -The chief physician can do many things about the system, such as adding doctors to the system, deleting doctors, adding polyclinics, deleting outpatient clinics, updating outpatient clinics and assigning doctors to polyclinics.
 -If a doctor's input is provided, the doctor can set his own working (appointment) hours from the system.
 -If the patient is not registered to the system, he/she can create his/her own registration in the system by being directed to a different interface with the "Register" option.
