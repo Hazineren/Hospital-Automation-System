@@ -5,7 +5,7 @@ If the system is accessed with the title of chief physician, general management 
 -The chief physician can do many things about the system, such as adding doctors to the system, deleting doctors, adding polyclinics, deleting outpatient clinics, updating outpatient clinics and assigning doctors to polyclinics.<br>
 -If a doctor's input is provided, the doctor can set his own working (appointment) hours from the system.<br>
 -If the patient is not registered to the system, he/she can create his/her own registration in the system by being directed to a different interface with the "Register" option.<br>
-- The patient who logs into the system is shown the doctors working in the polyclinic he chooses and the appropriate appointment times of the doctor he chooses.<br>
+-The patient who logs into the system is shown the doctors working in the polyclinic he chooses and the appropriate appointment times of the doctor he chooses.<br>
 -The patient can make an appointment with the doctors he prefers in various outpatient clinics and cancel the appointment.<br>
 
 Uygulamada Yapılabilecekler :<br>
